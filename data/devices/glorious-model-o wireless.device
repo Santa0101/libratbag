@@ -1,0 +1,12 @@
+[Device]
+Name=Glorious Model O/O- Wireless
+DeviceMatch=usb:258a:2011
+DeviceType=mouse
+Driver=sinowealth
+
+[Driver/sinowealth/devices/GloriousModelO]
+ButtonCount=6
+DeviceName=Glorious Model O/O- (updated firmware)
+FwVersion=V103
+LedType=RBG
+SensorType=PMW3360
